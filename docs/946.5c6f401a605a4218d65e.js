@@ -1,0 +1,1 @@
+(self.webpackChunkecommerce=self.webpackChunkecommerce||[]).push([[946],{6946:(e,c,r)=>{"use strict";r.r(c),r.d(c,{SellerListModule:()=>n});var s=r(8583),t=r(7716);let n=(()=>{class e{}return e.\u0275fac=function(c){return new(c||e)},e.\u0275mod=t.oAB({type:e}),e.\u0275inj=t.cJS({imports:[[s.ez]]}),e})()}}]);
